@@ -1,0 +1,4 @@
+Muscolare 9 300 18
+Muscolare 10 350 21
+Elettrica 12.5 0.5
+Elettrica 14.2 0.8
